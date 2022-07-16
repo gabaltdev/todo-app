@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>780419019935-7dm6h8r92lr825rlpbkj4uk6va05rrmp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.780419019935-7dm6h8r92lr825rlpbkj4uk6va05rrmp</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>780419019935-sgi2ufuvmmnpk7dk309c19seuns7pkc9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBxuWFflyZJ1bRAE6XSz9S2wxLg3QhVBig</string>
+	<key>GCM_SENDER_ID</key>
+	<string>780419019935</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sara.todoapp</string>
+	<key>PROJECT_ID</key>
+	<string>app-de-tareas-791f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>app-de-tareas-791f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:780419019935:ios:a8457892e44286edc39eaa</string>
+</dict>
+</plist>
