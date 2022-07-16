@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "780419019935",
+    "project_id": "app-de-tareas-791f6",
+    "storage_bucket": "app-de-tareas-791f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780419019935:android:fb03c91bc0198763c39eaa",
+        "android_client_info": {
+          "package_name": "com.sara.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780419019935-sgi2ufuvmmnpk7dk309c19seuns7pkc9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sara.todoapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "780419019935-i61chfmq9to7654gh9okr3qppftqr0bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRE-D-hKHbbquYzjgmf6DOmixjPAZRBRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780419019935-i61chfmq9to7654gh9okr3qppftqr0bq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "780419019935-7dm6h8r92lr825rlpbkj4uk6va05rrmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sara.todoapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
